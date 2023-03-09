@@ -1,0 +1,15 @@
+# ninja log v5
+2	442	1678369698760504282	CMakeFiles/cpp.dir/main.cpp.o	c8b927b7ba1e81ba
+3	881	1677162378882628853	CMakeFiles/cpp.dir/lab01/SimpleClass.cpp.o	93590db06505aa3
+442	487	1678369698808184739	cpp	f5a05ddec7bf0b88
+2	755	1677162378747879449	CMakeFiles/cpp.dir/lab01/Product.cpp.o	7c016bda89d29d85
+2	760	1677162378744280064	CMakeFiles/cpp.dir/lab01/HeapAndStack.cpp.o	99bcbb19f0ddecd3
+3	570	1678371451859227547	CMakeFiles/cpp.dir/src/lab3/zad1.cpp.o	53ca78b8f0ac10d1
+2	570	1678371451859227297	CMakeFiles/cpp.dir/main.cpp.o	c8b927b7ba1e81ba
+6	488	1678371484058427710	CMakeFiles/cpp.dir/main.cpp.o	c8b927b7ba1e81ba
+6	509	1678371484080170531	CMakeFiles/cpp.dir/src/lab3/zad1.cpp.o	53ca78b8f0ac10d1
+509	556	1678371484130810559	cpp	2b51ba81e40cfda2
+2	436	1678371656133014837	CMakeFiles/cpp.dir/src/lab3/zad1.cpp.o	53ca78b8f0ac10d1
+436	480	1678371656179484924	cpp	2b51ba81e40cfda2
+3	418	1678371865099453861	CMakeFiles/cpp.dir/src/lab3/zad1.cpp.o	53ca78b8f0ac10d1
+418	460	1678371865143939915	cpp	2b51ba81e40cfda2
